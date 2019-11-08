@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name opto)(type Legacy)(uri "Y:/Eigene Dateien/KiCAD/customLibraries/opto.lib")(options "")(descr ""))
+  (lib (name Adafruit)(type Legacy)(uri "Y:/Eigene Dateien/KiCAD/customLibraries/Adafruit.lib")(options "")(descr ""))
+  (lib (name DiodesInc)(type Legacy)(uri "Y:/Eigene Dateien/KiCAD/customLibraries/DiodesInc.lib")(options "")(descr ""))
+  (lib (name TexasInstruments)(type Legacy)(uri "Y:/Eigene Dateien/KiCAD/customLibraries/TexasInstruments.lib")(options "")(descr ""))
+  (lib (name WorldSemi)(type Legacy)(uri "Y:/Eigene Dateien/KiCAD/customLibraries/WorldSemi.lib")(options "")(descr ""))
+  (lib (name ConsoleWing-rescue)(type Legacy)(uri ${KIPRJMOD}/ConsoleWing-rescue.lib)(options "")(descr ""))
+)
